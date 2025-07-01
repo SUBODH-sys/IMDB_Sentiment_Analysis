@@ -13,7 +13,7 @@ Dataset Link :- 'https://drive.google.com/file/d/1iV4OxEeRObYbO9MshRmlzJqVgC54qd
 3. Run the Notebook, make sure to update file paths. Use Kaggle Editor for BERT training.
 4. Run the Streamlit app with this command in terminal : "streamlit run d:/DeviXy/app.py"
 
-### *Demo Link* : "https://drive.google.com/file/d/1y53Mw_B0IqhHiS3g9ufazvkdd3bF0inV/view?usp=sharing"
+*Demo Link* : "https://drive.google.com/file/d/1y53Mw_B0IqhHiS3g9ufazvkdd3bF0inV/view?usp=sharing"
 
 ## Data Distribution
 ![Screenshot 2025-07-01 145307](https://github.com/user-attachments/assets/40b66986-d315-437c-b68d-b6f1186a98ad)
