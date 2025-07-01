@@ -4,6 +4,8 @@ This project implements a text classification pipeline for the IMDb Movie Review
 2. BERT: A pretrained transformer model (bert-base-uncased) fine-tuned for higher accuracy, addressing the bonus requirement.
 The pipeline includes data loading, preprocessing, model training, and evaluation, with metrics (Accuracy, Precision, Recall, F1-Score) and confusion matrices for both models.
 
+Dataset Link :- 'https://drive.google.com/file/d/1iV4OxEeRObYbO9MshRmlzJqVgC54qdWn/view?usp=sharing'
+
 ## Usage
 1. Clone or Download the notebook and dataset zip
 2. Install Dependencies
