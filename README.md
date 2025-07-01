@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/30edb940-a0ba-425f-bedb-a00f0173c2ac)
 
 
-
+## Model Metrics
 | Model             | Accuracy | Precision | Recall | F1-Score |
 |-------------------|----------|-----------|--------|----------|
 | Logistic Regression| 0.88   | 0.87      | 0.88   | 0.87     |
