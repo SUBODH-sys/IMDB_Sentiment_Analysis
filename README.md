@@ -1,10 +1,13 @@
 # IMDB_Sentiment_Analysis
+This project implements a text classification pipeline for the IMDb Movie Reviews Dataset to classify movie reviews as positive or negative, Two models are implemented:
+1. Logistic Regression: A fast, interpretable baseline using TF-IDF vectorization.
+2. BERT: A pretrained transformer model (bert-base-uncased) fine-tuned for higher accuracy, addressing the bonus requirement.
+The pipeline includes data loading, preprocessing, model training, and evaluation, with metrics (Accuracy, Precision, Recall, F1-Score) and confusion matrices for both models.
 
 ## Data Distribution
 ![Screenshot 2025-07-01 145307](https://github.com/user-attachments/assets/40b66986-d315-437c-b68d-b6f1186a98ad)
 
 ![image](https://github.com/user-attachments/assets/30edb940-a0ba-425f-bedb-a00f0173c2ac)
-
 
 ## Model Metrics
 | Model             | Accuracy | Precision | Recall | F1-Score |
